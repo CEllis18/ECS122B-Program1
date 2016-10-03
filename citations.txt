@@ -1,0 +1,31 @@
+//Author:		Chris Ellis
+//ID#:			991868704
+//ECS122B 		Program#1
+//FileName		citations.txt
+//This file contains all the references I viewed for help while working on Program #1
+Introduction to Algorithms, Cormen/Leiserson/Rivest/Stein, pg 179
+
+Insertion Sort, https://en.wikipedia.org/wiki/Insertion_sort
+
+C++ I/O, http://www.cplusplus.com/doc/tutorial/files/
+
+Bash Scripting File creation,  http://stackoverflow.com/questions/14637284/writing-a-file-in-bash-script
+
+end of line character fix in notepad++, http://unix.stackexchange.com/questions/127562/why-does-the-filename-contain-question-marks-when-i-run-a-script-on-my-remote-ma
+
+For loops with variable values,
+http://stackoverflow.com/questions/169511/how-do-i-iterate-over-a-range-of-numbers-defined-by-variables-in-bash
+
+Piazza, https://piazza.com/class/im2rjzlkw8i12x
+
+Comparing two files in bash script
+http://superuser.com/questions/234810/how-do-i-compare-two-files-with-a-shell-script
+
+proper syntax for comparing two strings
+http://stackoverflow.com/questions/4277665/how-do-i-compare-two-string-variables-in-an-if-statement-in-bash
+
+Redirecting time output (since uses standard error)
+http://stackoverflow.com/questions/2408981/how-can-i-redirect-the-output-of-the-time-command
+
+reading file input 
+http://www.shellhacks.com/en/HowTo-Read-a-file-Line-By-Line
